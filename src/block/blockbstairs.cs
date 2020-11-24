@@ -90,7 +90,7 @@ public class BlockBStairs : Block
             }
             blockToPlace = api.World.GetBlock(blockToPlace.CodeWithPath(newPath));
             world.BlockAccessor.SetBlock(blockToPlace.BlockId, blockSel.Position);
-            System.Diagnostics.Debug.WriteLine("placed");
+           // System.Diagnostics.Debug.WriteLine("placed");
             return true;
         }
         return false;

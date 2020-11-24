@@ -2,7 +2,7 @@
   <PropertyGroup>
   	<AssemblyTitle>BetterStairs</AssemblyTitle>
 		<Authors>SpearAndFang</Authors>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<Description>BetterStairs</Description>
 		<RepositoryUrl></RepositoryUrl>
 		<TargetFramework>net48</TargetFramework>
