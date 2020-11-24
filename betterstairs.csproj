@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+  	<AssemblyTitle>BetterStairs</AssemblyTitle>
+		<Authors>SpearAndFang</Authors>
+		<Version>1.0.0</Version>
+		<Description>BetterStairs</Description>
+		<RepositoryUrl></RepositoryUrl>
+		<TargetFramework>net48</TargetFramework>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>  
+    <ItemGroup>
+		<Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+			<SpecificVersion>False</SpecificVersion>
+			<HintPath>$(VINTAGE_STORY)\Lib\Newtonsoft.Json.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+    	<Reference Include="VintagestoryAPI">
+			<HintPath>$(VINTAGE_STORY)\VintagestoryAPI.dll</HintPath>
+		</Reference>
+		<Reference Include="VSEssentials">
+			<HintPath>$(VINTAGE_STORY)\Mods\VSEssentials.dll</HintPath>
+		</Reference>
+		<Reference Include="VSSurvival">
+			<HintPath>$(VINTAGE_STORY)\Mods\VSSurvivalMod.dll</HintPath>
+		</Reference>
+		<Reference Include="Common">
+			<HintPath>$(VINTAGE_STORY)\Mods\VSSurvivalMod.dll</HintPath>
+		</Reference>
+	    </ItemGroup>
+
+  <Target Name="Copy" AfterTargets="PostBuildEvent" Condition="'$(Configuration)' == 'Debug'">
+    <!-- <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(VINTAGE_STORY_DATA)/Mods" />
+    <Copy SourceFiles="$(TargetDir)/$(TargetName).pdb" DestinationFolder="$(VINTAGE_STORY_DATA)/Mods" /> -->
+  </Target>
+</Project>

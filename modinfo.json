@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "betterstairs",
+  "name": "Better Stairs",
+  "description": "",
+  "authors": ["Spear And Fang"],
+  "version": "1.0.0",
+  "gameversions": ["1.14.0+"],
+  "website": "https://github.com/SpearAndFang"
+}
+
