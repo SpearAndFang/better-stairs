@@ -9,7 +9,7 @@
     },
     {
       "code": "updown",
-      "states": ["up", "down"]
+      "states": ["up", "down", "sideways"]
     },
     {
       "code": "dir",
@@ -34,7 +34,15 @@
     "*-down-northeast-snow",
     "*-down-southeast-snow",
     "*-down-southwest-snow",
-    "*-down-northwestwest-snow"
+    "*-down-northwestwest-snow",
+    "*-sideways-north-snow",
+    "*-sideways-east-snow",
+    "*-sideways-south-snow",
+    "*-sideways-west-snow",
+    "*-sideways-northeast-snow",
+    "*-sideways-southeast-snow",
+    "*-sideways-southwest-snow",
+    "*-sideways-northwestwest-snow"
   ],
   "attributes": {
     "canChisel": true,
@@ -131,6 +139,9 @@
       "all": false,
       "up": true,
       "east": true
+    },
+    "*-sideways-*": {
+      "all": false
     }
   },
   "sideopaqueByType": {
@@ -197,6 +208,9 @@
     "*-down-northeast-free": {
       "all": false,
       "up": true
+    },
+    "*-sideways-*": {
+      "all": false
     }
   },
   "shapebytype": {
@@ -215,6 +229,26 @@
     "*-normal-up-east-free": {
       "base": "game:block/basic/stairs/normal",
       "rotateY": 90
+    },
+    "*-normal-sideways-north-free": {
+      "base": "game:block/basic/stairs/normal",
+      "rotateY": 180,
+      "rotateZ": 90
+    },
+    "*-normal-sideways-west-free": {
+      "base": "game:block/basic/stairs/normal",
+      "rotateY": 270,
+      "rotateZ": 90
+    },
+    "*-normal-sideways-south-free": {
+      "base": "game:block/basic/stairs/normal",
+      "rotateY": 0,
+      "rotateZ": 90
+    },
+    "*-normal-sideways-east-free": {
+      "base": "game:block/basic/stairs/normal",
+      "rotateY": 90,
+      "rotateZ": 90
     },
     "*-outside-up-northwest-free": {
       "base": "game:block/basic/stairs/outside",
@@ -408,6 +442,38 @@
           "*-south-*": 180,
           "*-west-*": 90
         }
+      }
+    ],
+    "*normal-sideways-*": [
+      {
+        "x1": 0,
+        "y1": 0,
+        "z1": 0.5,
+        "x2": 1,
+        "y2": 0.5,
+        "z2": 1,
+        "rotateYByType": {
+          "*-north-*": 0,
+          "*-east-*": 270,
+          "*-south-*": 180,
+          "*-west-*": 90
+        },
+        "rotateZ": 90
+      },
+      {
+        "x1": 0,
+        "y1": 0.5,
+        "z1": 0,
+        "x2": 1,
+        "y2": 1,
+        "z2": 1,
+        "rotateYByType": {
+          "*-north-*": 0,
+          "*-east-*": 270,
+          "*-south-*": 180,
+          "*-west-*": 90
+        },
+        "rotateZ": 90
       }
     ],
     "*inside-down-*": [
