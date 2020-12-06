@@ -23,7 +23,7 @@ public class BlockBStairs : Block
                 if (newPath.Contains("-snow")) newPath = newPath.Replace("-snow", "-free");
                 targetBlock = api.World.GetBlock(targetBlock.CodeWithPath(newPath));
                 world.BlockAccessor.SetBlock(targetBlock.BlockId, blockSel.Position);
-                return false;
+                return true;
             }
             //else System.Diagnostics.Debug.WriteLine("dont rotate " + newPath);
         }
