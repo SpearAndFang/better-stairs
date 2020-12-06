@@ -1,0 +1,14 @@
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\bin\Debug\net48\betterstairs.dll
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\bin\Debug\net48\betterstairs.pdb
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\bin\Debug\net48\VintagestoryAPI.dll
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\bin\Debug\net48\VSEssentials.dll
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\bin\Debug\net48\VSSurvivalMod.dll
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\bin\Debug\net48\VSCreativeMod.dll
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\bin\Debug\net48\VintagestoryAPI.xml
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\obj\Debug\net48\betterstairs.csprojAssemblyReference.cache
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\obj\Debug\net48\betterstairs.AssemblyInfoInputs.cache
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\obj\Debug\net48\betterstairs.AssemblyInfo.cs
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\obj\Debug\net48\betterstairs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\obj\Debug\net48\betterstairs.csproj.CopyComplete
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\obj\Debug\net48\betterstairs.dll
+C:\Users\Administrator\AppData\Roaming\VintagestoryData\Mods\betterstairs\obj\Debug\net48\betterstairs.pdb
