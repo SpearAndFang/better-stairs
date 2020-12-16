@@ -166,19 +166,19 @@
     },
     "*-up-north-snow": {
       "base": "game:block/basic/stairs/snow-normal",
-      "rotateY": 0
+      "rotateY": 180
     },
     "*-up-west-snow": {
       "base": "game:block/basic/stairs/snow-normal",
-      "rotateY": 90
+      "rotateY": 270
     },
     "*-up-south-snow": {
       "base": "game:block/basic/stairs/snow-normal",
-      "rotateY": 180
+      "rotateY": 0
     },
     "*-up-east-snow": {
       "base": "game:block/basic/stairs/snow-normal",
-      "rotateY": 270
+      "rotateY": 90
     },
     "*-outside-up-northwest-snow": {
       "base": "game:block/basic/stairs/snow-outside",
@@ -194,7 +194,7 @@
     },
     "*-outside-up-northeast-snow": {
       "base": "game:block/basic/stairs/snow-outside",
-      "rotateY": 270
+      "rotateY": 180
     },
     "*-inside-up-northwest-snow": {
       "base": "game:block/basic/stairs/snow-inside",

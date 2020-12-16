@@ -33,14 +33,6 @@
     { "code": "cover", "states": ["free", "snow"] }
   ],
   "skipVariants": [
-    "*-down-north-snow",
-    "*-down-east-snow",
-    "*-down-south-snow",
-    "*-down-west-snow",
-    "*-down-northeast-snow",
-    "*-down-southeast-snow",
-    "*-down-southwest-snow",
-    "*-down-northwestwest-snow",
     "*-sideways-north-snow",
     "*-sideways-east-snow",
     "*-sideways-south-snow",
@@ -48,7 +40,7 @@
     "*-sideways-northeast-snow",
     "*-sideways-southeast-snow",
     "*-sideways-southwest-snow",
-    "*-sideways-northwestwest-snow"
+    "*-sideways-northwest-snow"
   ],
   "creativeinventory": {
     "general": ["*-{wood}-normal-up-north-free"],
@@ -101,42 +93,42 @@
       "north": true,
       "east": true
     },
-    "*-down-north-free": {
+    "*-down-north-*": {
       "all": false,
       "up": true,
       "north": true
     },
-    "*-down-south-free": {
+    "*-down-south-*": {
       "all": false,
       "up": true,
       "south": true
     },
-    "*-down-west-free": {
+    "*-down-west-*": {
       "all": false,
       "up": true,
       "west": true
     },
-    "*-down-east-free": {
+    "*-down-east-*": {
       "all": false,
       "up": true,
       "east": true
     },
-    "*-down-northwest-free": {
+    "*-down-northwest-*": {
       "all": false,
       "up": true,
       "north": true
     },
-    "*-down-southeast-free": {
+    "*-down-southeast-*": {
       "all": false,
       "up": true,
       "south": true
     },
-    "*-down-southwest-free": {
+    "*-down-southwest-*": {
       "all": false,
       "up": true,
       "west": true
     },
-    "*-down-northeast-free": {
+    "*-down-northeast-*": {
       "all": false,
       "up": true,
       "east": true
@@ -178,35 +170,35 @@
       "all": false,
       "down": true
     },
-    "*-down-north-free": {
+    "*-down-north-*": {
       "all": false,
       "up": true
     },
-    "*-down-south-free": {
+    "*-down-south-*": {
       "all": false,
       "up": true
     },
-    "*-down-west-free": {
+    "*-down-west-*": {
       "all": false,
       "up": true
     },
-    "*-down-east-free": {
+    "*-down-east-*": {
       "all": false,
       "up": true
     },
-    "*-down-northwest-free": {
+    "*-down-northwest-*": {
       "all": false,
       "up": true
     },
-    "*-down-southwest-free": {
+    "*-down-southwest-*": {
       "all": false,
       "up": true
     },
-    "*-down-southeast-free": {
+    "*-down-southeast-*": {
       "all": false,
       "up": true
     },
-    "*-down-northeast-free": {
+    "*-down-northeast-*": {
       "all": false,
       "up": true
     },
@@ -285,19 +277,19 @@
     },
     "*-up-north-snow": {
       "base": "game:block/basic/stairs/snow-normal",
-      "rotateY": 0
+      "rotateY": 180
     },
     "*-up-west-snow": {
       "base": "game:block/basic/stairs/snow-normal",
-      "rotateY": 90
+      "rotateY": 270
     },
     "*-up-south-snow": {
       "base": "game:block/basic/stairs/snow-normal",
-      "rotateY": 180
+      "rotateY": 0
     },
     "*-up-east-snow": {
       "base": "game:block/basic/stairs/snow-normal",
-      "rotateY": 270
+      "rotateY": 90
     },
     "*-outside-up-northwest-snow": {
       "base": "game:block/basic/stairs/snow-outside",
@@ -313,7 +305,7 @@
     },
     "*-outside-up-northeast-snow": {
       "base": "game:block/basic/stairs/snow-outside",
-      "rotateY": 270
+      "rotateY": 180
     },
     "*-inside-up-northwest-snow": {
       "base": "game:block/basic/stairs/snow-inside",
@@ -378,10 +370,59 @@
     "*-inside-down-northeast-free": {
       "base": "betterstairs:block/basic/stairs/inside-flipped",
       "rotateY": 90
+    },
+    "*-normal-down-north-snow": {
+      "base": "betterstairs:block/basic/stairs/snow-flipped",
+      "rotateY": 180
+    },
+    "*-normal-down-west-snow": {
+      "base": "betterstairs:block/basic/stairs/snow-flipped",
+      "rotateY": 270
+    },
+    "*-normal-down-south-snow": {
+      "base": "betterstairs:block/basic/stairs/snow-flipped",
+      "rotateY": 0
+    },
+    "*-normal-down-east-snow": {
+      "base": "betterstairs:block/basic/stairs/snow-flipped",
+      "rotateY": 90
+    },
+    "*-outside-down-northwest-snow": {
+      "base": "betterstairs:block/basic/stairs/snow-outside-flipped",
+      "rotateY": 270
+    },
+    "*-outside-down-southwest-snow": {
+      "base": "betterstairs:block/basic/stairs/snow-outside-flipped",
+      "rotateY": 0
+    },
+    "*-outside-down-southeast-snow": {
+      "base": "betterstairs:block/basic/stairs/snow-outside-flipped",
+      "rotateY": 90
+    },
+    "*-outside-down-northeast-snow": {
+      "base": "betterstairs:block/basic/stairs/snow-outside-flipped",
+      "rotateY": 180
+    },
+    "*-inside-down-northwest-snow": {
+      "base": "betterstairs:block/basic/stairs/snow-inside-flipped",
+      "rotateY": 180
+    },
+    "*-inside-down-southwest-snow": {
+      "base": "betterstairs:block/basic/stairs/snow-inside-flipped",
+      "rotateY": 270
+    },
+    "*-inside-down-southeast-snow": {
+      "base": "betterstairs:block/basic/stairs/snow-inside-flipped",
+      "rotateY": 0
+    },
+    "*-inside-down-northeast-snow": {
+      "base": "betterstairs:block/basic/stairs/snow-inside-flipped",
+      "rotateY": 90
     }
   },
   "blockmaterial": "Wood",
   "textures": {
+    "snowcover": { "base": "game:block/snow/normal1" },
     "all": { "base": "game:block/wood/planks/{wood}1" }
   },
   "lightAbsorption": 99,
