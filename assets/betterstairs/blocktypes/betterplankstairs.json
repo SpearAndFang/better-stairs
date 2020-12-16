@@ -429,10 +429,10 @@
   "resistance": 3,
   "emitSideAo": { "all": true },
   "sounds": {
-    "hit": "block/planks",
-    "break": "block/planks",
-    "place": "block/planks",
-    "walk": "walk/wood"
+    "hit": "game:block/planks",
+    "break": "game:block/planks",
+    "place": "game:block/planks",
+    "walk": "game:walk/wood"
   },
   "combustibleProps": {
     "burnTemperature": 800,

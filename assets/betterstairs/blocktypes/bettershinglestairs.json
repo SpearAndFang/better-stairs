@@ -429,7 +429,7 @@
     "all": { "base": "game:block/clay/shingles/{variant}" }
   },
   "sounds": {
-    "walk": "walk/stone"
+    "walk": "game:walk/stone"
   },
   "collisionSelectionBoxesByType": {
     "*normal-down-*": [

@@ -412,9 +412,9 @@
     "scale": 0.37
   },
   "sounds": {
-    "place": "block/gravel",
-    "break": "block/gravel",
-    "hit": "block/gravel",
-    "walk": "walk/gravel"
+    "place": "game:block/gravel",
+    "break": "game:block/gravel",
+    "hit": "game:block/gravel",
+    "walk": "game:walk/gravel"
   }
 }

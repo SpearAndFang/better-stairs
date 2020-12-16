@@ -428,7 +428,7 @@
   "resistance": 4,
   "emitSideAo": { "all": true },
   "sounds": {
-    "walk": "walk/stone",
+    "walk": "game:walk/stone",
     "byTool": {
       "Pickaxe": {
         "hit": "block/rock-hit-pickaxe",
