@@ -1,0 +1,55 @@
+{
+  "game:tabname-betterstairs": "Улучш.ступени",
+
+  "block-betterbrickstairs-blue-*": "Улучшенные кирпичные ступени из голубой глины",
+  "block-betterbrickstairs-brown-*": "Улучшенные кирпичные ступени из коричеивой глины",
+  "block-betterbrickstairs-fire-*": "Улучшенные кирпичные ступени из огнеупорной глины",
+  "block-betterbrickstairs-red-*": "Улучшенные кирпичные ступени из красной глины",
+
+  "block-bettercobblestonestairs-andesite-*": "Улучшенные ступени из булыжника (Андезит)",
+  "block-bettercobblestonestairs-bauxite-*": "Улучшенные ступени из булыжника (Боксит)",
+  "block-bettercobblestonestairs-chalk-*": "Улучшенные ступени из булыжника (Мел)",
+  "block-bettercobblestonestairs-claystone-*": "Улучшенные ступени из булыжника (Аргиллит)",
+  "block-bettercobblestonestairs-granite-*": "Улучшенные ступени из булыжника (Гранит)",
+  "block-bettercobblestonestairs-sandstone-*": "Улучшенные ступени из булыжника (Песчанник)",
+  "block-bettercobblestonestairs-shale-*": "Улучшенные ступени из булыжника (Глинистый сланец)",
+  "block-bettercobblestonestairs-basalt-*": "Улучшенные ступени из булыжника (Базальт)",
+  "block-bettercobblestonestairs-chert-*": "Улучшенные ступени из булыжника (Кремнистый сланец)",
+  "block-bettercobblestonestairs-conglomerate-*": "Улучшенные ступени из булыжника (Конгломерат)",
+  "block-bettercobblestonestairs-limestone-*": "Улучшенные ступени из булыжника (Известняк)",
+  "block-bettercobblestonestairs-peridotite-*": "Улучшенные ступени из булыжника (Перидотит)",
+  "block-bettercobblestonestairs-phyllite-*": "Улучшенные ступени из булыжника (Филлит)",
+  "block-bettercobblestonestairs-slate-*": "Улучшенные ступени из булыжника (Шифер)",
+
+  "block-betterplankstairs-birch-*": "Улучшенные Березовые ступени",
+  "block-betterplankstairs-oak-*": "Улучшенные Дубовые ступени",
+  "block-betterplankstairs-maple-*": "Улучшенные Кленовые ступени",
+  "block-betterplankstairs-pine-*": "Улучшенные Сосновые ступени",
+  "block-betterplankstairs-acacia-*": "Улучшенные ступени из Акации",
+  "block-betterplankstairs-kapok-*": "Улучшенные Капоковые ступени",
+  "block-betterplankstairs-aged-*": "Улучшенные Древние деревянные ступени",
+
+  "block-betterquartzstairs-*": "Улучшенные Кварцевые ступени",
+
+  "block-betterclayshinglestairs-blue-*": "Улучшенные ступени из голубой черепицы",
+  "block-betterclayshinglestairs-brown-*": "Улучшенные ступени из бурой черепицы",
+  "block-betterclayshinglestairs-fire-*": "Улучшенные ступени из огнеупорной черепицы",
+  "block-betterclayshinglestairs-red-*": "Улучшенные ступени из красной черепицы",
+
+  "block-betterstonebrickstairs-basalt-*": "Улучшенные ступени из каменного кирпича (Базальт)",
+  "block-betterstonebrickstairs-andesite-*": "Улучшенные ступени из каменного кирпича (Андезит)",
+  "block-betterstonebrickstairs-chalk-*": "Улучшенные ступени из каменного кирпича (Мел)",
+  "block-betterstonebrickstairs-claystone-*": "Улучшенные ступени из каменного кирпича (Аргиллит)",
+  "block-betterstonebrickstairs-granite-*": "Улучшенные ступени из каменного кирпича (Гранит)",
+  "block-betterstonebrickstairs-sandstone-*": "Улучшенные ступени из каменного кирпича (Песчанник)",
+  "block-betterstonebrickstairs-shale-*": "Улучшенные ступени из каменного кирпича (Глинистый сланец)",
+  "block-betterstonebrickstairs-chert-*": "Улучшенные ступени из каменного кирпича (Кремнистый сланец)",
+  "block-betterstonebrickstairs-bauxite-*": "Улучшенные ступени из каменного кирпича (Боксит)",
+  "block-betterstonebrickstairs-conglomerate-*": "Улучшенные ступени из каменного кирпича (Конгломерат)",
+  "block-betterstonebrickstairs-limestone-*": "Улучшенные ступени из каменного кирпича (Известняк)",
+  "block-betterstonebrickstairs-peridotite-*": "Улучшенные ступени из каменного кирпича (Перидотит)",
+  "block-betterstonebrickstairs-phyllite-*": "Улучшенные ступени из каменного кирпича (Филлит)",
+  "block-betterstonebrickstairs-slate-*": "Улучшенные ступени из каменного кирпича (Шифер)",
+
+  "block-betterstonepathstairs-*": "Улучшенные ступени каменной дороги"
+}
