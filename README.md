@@ -1,6 +1,6 @@
 # better-stairs
  Source code for the Vintage Story Better Stairs mod here:
 
-Next Version:  Fix the sound files, remove snow on sneak rotate
+Next Version:  remove snow on sneak rotate, allow snow on sideways block
 
 https://www.vintagestory.at/forums/topic/3154-better-stairs/
