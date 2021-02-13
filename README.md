@@ -4,7 +4,7 @@
 Roadmap:  Update snow on paths, remove snow on sneak rotate, allow snow on sideways block
 
 V1.0.5 Updates
-- Added German translation - thanks 
+- Added German translation - thanks Kiava
 
 V1.0.4 Updates
 - Added Russian translation - thanks Evil Toaster
