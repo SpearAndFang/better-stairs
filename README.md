@@ -20,6 +20,7 @@
 - Added Russian translation - thanks Evil Toaster
 
 
-Latest release can be downloaded HERE:
+**More Info:**
 
+https://mods.vintagestory.at/show/mod/6
 https://www.vintagestory.at/forums/topic/3154-better-stairs/
