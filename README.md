@@ -1,5 +1,5 @@
 # Better Stairs
-<h2>Source code for the Vintage Story Better Stairs mod.</h2>
+<h2>Source code for the Vintage Story "Better Stairs" mod.</h2>
 
 **Roadmap**
 
