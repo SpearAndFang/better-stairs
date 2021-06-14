@@ -1,12 +1,12 @@
 {
-    "type": "code",
-    "modid": "betterstairs",
-    "name": "Better Stairs",
-    "author": "SpearAndFang",
-    "description": "Automatic inside and outside corners and stair rotation",
-    "version": "1.0.6",
-    "dependency": {
-        "game": "1.14.0"
-    },
-	"website": "https://gitlab.com/spearandfangVS"
+  "type": "code",
+  "modid": "betterstairs",
+  "name": "Better Stairs",
+  "author": "SpearAndFang",
+  "description": "Automatic inside and outside corners and stair rotation",
+  "version": "1.0.6",
+  "dependency": {
+    "game": "1.15.0"
+  },
+  "website": "https://github.com/SpearAndFang"
 }
