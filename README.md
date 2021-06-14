@@ -3,6 +3,9 @@
 
 Roadmap:  Update snow on paths, remove snow on sneak rotate, allow snow on sideways block
 
+V1.0.6 Updates
+- Added Bald cypress, Larch, Redwood, Ebony, Walnut, Purpleheart variants
+
 V1.0.5 Updates
 - Added German translation - thanks Kiava
 
