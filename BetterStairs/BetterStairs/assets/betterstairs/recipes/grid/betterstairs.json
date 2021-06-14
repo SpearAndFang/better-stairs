@@ -1,0 +1,100 @@
+[
+  {
+    "ingredientPattern": "TS",
+	"shapeless": true,
+    "width": 2,
+    "height": 1,
+    "ingredients": {
+      "T": { "type": "item", "code": "game:axe-*", "isTool": true },
+      "S": { "type": "block", "code": "game:plankstairs-*-up-north-free", name: "wood" },
+    },
+    "output": {
+      "type": "block",
+      "code": "betterplankstairs-{wood}-normal-up-north-free"
+    }
+  },
+  {
+    "ingredientPattern": "TS",
+	"shapeless": true,
+    "width": 2,
+    "height": 1,
+    "ingredients": {
+      "T": { "type": "item", "code": "game:hammer-*", "isTool": true },
+      "S": { "type": "block", "code": "game:brickstairs-*-up-north-free", name: "type" },
+    },
+    "output": {
+      "type": "block",
+      "code": "betterstairs:betterbrickstairs-{type}-normal-up-north-free"
+    }
+  },
+  {
+    "ingredientPattern": "TS",
+	"shapeless": true,
+    "width": 2,
+    "height": 1,
+    "ingredients": {
+      "T": { "type": "item", "code": "game:hammer-*", "isTool": true },
+      "S": { "type": "block", "code": "game:cobblestonestairs-*-up-north-free", name: "type" },
+    },
+    "output": {
+      "type": "block",
+      "code": "betterstairs:bettercobblestonestairs-{type}-normal-up-north-free"
+    }
+  },
+  {
+    "ingredientPattern": "TS",
+	"shapeless": true,
+    "width": 2,
+    "height": 1,
+    "ingredients": {
+      "T": { "type": "item", "code": "game:hammer-*", "isTool": true },
+      "S": { "type": "block", "code": "game:quartzstairs-up-north-free"},
+    },
+    "output": {
+      "type": "block",
+      "code": "betterstairs:betterquartzstairs-normal-up-north-free"
+    }
+  },
+  {
+    "ingredientPattern": "TS",
+	"shapeless": true,
+    "width": 2,
+    "height": 1,
+    "ingredients": {
+      "T": { "type": "item", "code": "game:hammer-*", "isTool": true },
+      "S": { "type": "block", "code": "game:clayshinglestairs-*-up-north-free", name: "type" },
+    },
+    "output": {
+      "type": "block",
+      "code": "betterstairs:betterclayshinglestairs-{type}-normal-up-north-free"
+    }
+  },
+  {
+    "ingredientPattern": "TS",
+	"shapeless": true,
+    "width": 2,
+    "height": 1,
+    "ingredients": {
+      "T": { "type": "item", "code": "game:hammer-*", "isTool": true },
+      "S": { "type": "block", "code": "game:stonebrickstairs-*-up-north-free", name: "type" },
+    },
+    "output": {
+      "type": "block",
+      "code": "betterstairs:betterstonebrickstairs-{type}-normal-up-north-free"
+    }
+  },
+    {
+    "ingredientPattern": "TS",
+	"shapeless": true,
+    "width": 2,
+    "height": 1,
+    "ingredients": {
+      "T": { "type": "item", "code": "game:hammer-*", "isTool": true },
+      "S": { "type": "block", "code": "game:stonepathstairs-up-north-free" },
+    },
+    "output": {
+      "type": "block",
+      "code": "betterstairs:betterstonepathstairs-normal-up-north-free"
+    }
+  }
+]

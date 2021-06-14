@@ -1,0 +1,63 @@
+{
+  "game:tabname-betterstairs": "Better Stairs",
+
+  "block-betterbrickstairs-blue-*": "Better Blue brick stairs",
+  "block-betterbrickstairs-brown-*": "Better Brown brick stairs",
+  "block-betterbrickstairs-fire-*": "Better Fire brick stairs",
+  "block-betterbrickstairs-red-*": "Better Red brick stairs",
+
+  "block-bettercobblestonestairs-andesite-*": "Better Andesite cobblestone stairs",
+  "block-bettercobblestonestairs-bauxite-*": "Better Bauxite cobblestone stairs",
+  "block-bettercobblestonestairs-chalk-*": "Better Chalk cobblestone stairs",
+  "block-bettercobblestonestairs-claystone-*": "Better Claystone cobblestone stairs",
+  "block-bettercobblestonestairs-granite-*": "Better Granite cobblestone stairs",
+  "block-bettercobblestonestairs-sandstone-*": "Better Sandstone cobblestone stairs",
+  "block-bettercobblestonestairs-shale-*": "Better Shale cobblestone stairs",
+  "block-bettercobblestonestairs-basalt-*": "Better Basalt cobblestone stairs",
+  "block-bettercobblestonestairs-chert-*": "Better Chert cobblestone stairs",
+  "block-bettercobblestonestairs-conglomerate-*": "Better Conglomerate cobblestone stairs",
+  "block-bettercobblestonestairs-limestone-*": "Better Limestone cobblestone stairs",
+  "block-bettercobblestonestairs-peridotite-*": "Better Peridotite cobblestone stairs",
+  "block-bettercobblestonestairs-phyllite-*": "Better Phyllite cobblestone stairs",
+  "block-bettercobblestonestairs-slate-*": "Better Slate cobblestone stairs",
+
+  "block-betterplankstairs-birch-*": "Better Birch stairs",
+  "block-betterplankstairs-oak-*": "Better Oak stairs",
+  "block-betterplankstairs-maple-*": "Better Maple stairs",
+  "block-betterplankstairs-pine-*": "Better Pine stairs",
+  "block-betterplankstairs-acacia-*": "Better Acacia stairs",
+  "block-betterplankstairs-kapok-*": "Better Kapok stairs",
+  "block-betterplankstairs-aged-*": "Better Aged wooden stairs",
+
+
+
+  "block-betterclayshinglestairs-blue-*": "Better Blue shingle stairs",
+  "block-betterclayshinglestairs-brown-*": "Better Brown shingle stairs",
+  "block-betterclayshinglestairs-fire-*": "Better Fire clay shingle stairs",
+  "block-betterclayshinglestairs-red-*": "Better Red shingle stairs",
+
+  "block-betterstonebrickstairs-basalt-*": "Better Basalt stone brick stairs",
+  "block-betterstonebrickstairs-andesite-*": "Better Andesite stone brick stairs",
+  "block-betterstonebrickstairs-chalk-*": "Better Chalk stone brick stairs",
+  "block-betterstonebrickstairs-claystone-*": "Better Claystone stone brick stairs",
+  "block-betterstonebrickstairs-granite-*": "Better Granite stone brick stairs",
+  "block-betterstonebrickstairs-sandstone-*": "Better Sandstone stone brick stairs",
+  "block-betterstonebrickstairs-shale-*": "Better Shale stone brick stairs",
+  "block-betterstonebrickstairs-chert-*": "Better Chert stone brick stairs",
+  "block-betterstonebrickstairs-bauxite-*": "Better Bauxite stone brick stairs",
+  "block-betterstonebrickstairs-conglomerate-*": "Better Conglomerate stone brick stairs",
+  "block-betterstonebrickstairs-limestone-*": "Better Limestone stone brick stairs",
+  "block-betterstonebrickstairs-peridotite-*": "Better Peridotite stone brick stairs",
+  "block-betterstonebrickstairs-phyllite-*": "Better Phyllite stone brick stairs",
+  "block-betterstonebrickstairs-slate-*": "Better Slate stone brick stairs",
+  "block-betterstonepathstairs-*": "Better Stone path stairs",
+
+  "_v1.0.6”": "UPDATES BELOW",
+  "block-betterplankstairs-baldcypress-*": "Better Bald cypress stairs",
+  "block-betterplankstairs-larch-*": "Better Larch stairs",
+  "block-betterplankstairs-redwood-*": "Better Redwood stairs",
+  "block-betterplankstairs-ebony-*": "Better Ebony stairs",
+  "block-betterplankstairs-walnut-*": "Better Walnut stairs",
+  "block-betterplankstairs-purpleheart-*": "Better Purpleheart stairs",
+  "block-betterquartzstairs-*": "Better Ancient stairs"
+}
